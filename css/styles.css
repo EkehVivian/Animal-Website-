@@ -1,0 +1,38 @@
+div {
+  float: right;
+  color:white;
+  font-size: 25px;
+}
+.column {
+  width: 300px;
+  ;
+}
+h3 {
+  color:white;
+}
+h1 {
+  color:rgb(38, 219, 219);
+  font-size: 50px;
+}
+body {
+  background-image: url(../image/images\ \(4\).jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+p {
+  color:navy
+}
+h1 {
+  text-align: center;
+}
+.care {
+  text-align:;
+  box-sizing: border-box;
+  border: 3px solid black;
+  padding: 3px;
+  margin: 5px;
+}
+img {
+  width: 200px;
+  height: 200px;
+}
