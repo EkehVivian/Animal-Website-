@@ -26,10 +26,7 @@ body {
   color:white;
   font-size: 25px;
 }
-.column {
-  width: 300px;
-  ;
-}
+
 h3 {
   color:white;
 }
@@ -85,6 +82,46 @@ span {
   color:brown;
   padding: 3px;
   margin: 5px;
+  background-color: coral;
+}
+.us {
+  color:crimson;
+}
+.Examples {
+  color:darkblue
+}
+.Rabbit{
+  color:darkred;
+}
+.fact {
+  color: red;
+}
+.cat {
+  color:blue;
+}
+.column {
+  float:left;
+  width: 30%;
+  text-align: center;
   box-sizing: border-box;
-  border: coral;
+  margin: 10px;
+  padding: 5px;
+}
+.call {
+  color: black;
+}
+.vee {
+  color: red;
+}
+.animal {
+  color: red;
+}
+.shelter {
+  color: red;
+}
+.of {
+  color: black;
+}
+.style {
+  width: 100%;
 }
